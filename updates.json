@@ -7,5 +7,15 @@
     ],
     "FilesToDelete": [],
     "sizeBytes": 1405695329
+  },
+  {
+    "version": "2.2",
+    "extractTarget": "",
+    "downloadLinks": [
+      "https://bindon.ca/fuckoff/Supremacy Test.7z"
+    ],
+    "filesToDelete": [],
+    "sizeBytes": 3894773759,
+    "sha256": "c8a4c6c9244c52ced957ca5c5f3bb836b268effa996dfebd9aec6c697700de0e"
   }
 ]
