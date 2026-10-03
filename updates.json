@@ -1,12 +1,12 @@
 [
   {
-    "version": "2.1",
+    "version": "2.0",
     "extractTarget": "",
     "downloadLinks": [
-      "https://store-eu-par-7.gofile.io/download/direct/a815fc44-42b0-431a-af3d-fd8abe211adc/RC01102026.7z"
+      "https://store4.gofile.io/download/direct/884a6153-ce02-421a-b721-869d9e142b8f/RC03102026.7z"
     ],
     "filesToDelete": [],
-    "sizeBytes": 3735780821,
-    "sha256": "0a4292e0d94fabba49b6979fe9b7d02a6cad5dc023e7365d35d8636c2659370f"
+    "sizeBytes": 3700683782,
+    "sha256": "d458d053b7264b7495c6ed0ccf795587a13db34c1902c55759f6a8b0401b6e5d"
   }
 ]
